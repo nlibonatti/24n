@@ -17,25 +17,20 @@ $url = array(
                 "page" => "https://www.eluniverso.com/",
                 "fav" => "./img/ecuador/eluniverso.png"),
         
-        array("title" => "El Comercio",
-                "html" => "https://www.elcomercio.com/feed/?_gl=1%2A1joavzt%2A_ga%2ANjk2MzIwOTMxLjE2ODgxMzUzMTc.%2A_ga_ESXBCCCS5Y%2AMTY5NDM4MzcxMC4xNi4wLjE2OTQzODM3MTIuNTguMC4w", 
-                "page" => "https://www.elcomercio.com.ec/",
-                "fav" => "./img/ecuador/elcomercioa.jpeg"),
-        
         array("title" => "Primicias",
                 "html" => "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6Gi8_PZp9gcEZb5hTCPdQ",
                 "page" => "https://primicias.ec/",
-                "fav" => "./img/ecuador/primicias.gif"),
+                "fav" => "./img/ecuador/primicias.png"),
         
         array("title" => "El Nuevo Tiempo",
                 "html" => "https://www.youtube.com/feeds/videos.xml?channel_id=UCy09IePBDYDIV_OWByVO8eQ", 
                 "page" => "https://www.nuevotiempo.com/", 
-                "fav" => "./img/ecuador/eltiempo.gif"),
+                "fav" => "./img/ecuador/nuevotiempo.png"),
         
         array("title" => "El Telégrafo",
                 "html" => "https://www.youtube.com/feeds/videos.xml?channel_id=UCj6PcyLvpnIRT_2W_mwa9Aw",
                 "page" => "https://telegrafo.com.ec/",
-                "fav" => "./img/ecuador/telegrafo.gif"),
+                "fav" => "./img/ecuador/telegrafo.png"),
         
         array("title" => "Ecuavisa",
                 "html" => "https://www.youtube.com/feeds/videos.xml?channel_id=UCRUV3nUNSc-xpBrTwQOCQQg",
@@ -45,12 +40,12 @@ $url = array(
         array("title" => "Expreso",
                 "html" => "https://www.youtube.com/feeds/videos.xml?channel_id=UCtAaSHcfws-hQzg98XEQYvw",
                 "page" => "https://www.expreso.ec/",
-                "fav" => "./img/ecuador/expreso.gif"),
+                "fav" => "./img/ecuador/expreso.png"),
         
         array("title" => "Teleamazonas",
                 "html" => "https://www.youtube.com/feeds/videos.xml?channel_id=UCCwRtme3lumNRQXMO2EvCvw",
                 "page" => "https://www.teleamazonas.com/",
-                "fav" => "./img/ecuador/teleamazonas.gif"),
+                "fav" => "./img/ecuador/teleamazonas.png"),
         
         );
         
